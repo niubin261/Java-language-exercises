@@ -1,6 +1,7 @@
 /**
  * Created by Administrator on 2017/6/7.
  */
+import java.util.Scanner;
 public class Display{
     private int value=0;
     private int limit=0;
@@ -62,7 +63,7 @@ public class Clock{
         }
     }
 }
-import java.util.Scanner;
+
 
 /**
  * Created by Administrator on 2017/6/6.
